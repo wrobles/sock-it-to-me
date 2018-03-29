@@ -14,4 +14,4 @@
 4. You're awesome! You've earned a pair of socks.
 
 We hope you've enjoyed your journey creating a "pull request." Learn more about our open source projects at [https://salesforce.github.io](https://salesforce.github.io/)
-
+Thanks for all you rock!
